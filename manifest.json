@@ -74,7 +74,7 @@
         "title" : "我们的一生",
         "router" : {
             "mode" : "history",
-            "base" : "/welife/"
+            "base" : "/"
         },
         "devServer" : {
             "https" : false
@@ -85,6 +85,7 @@
                     "key" : "XVXBZ-NDMC4-JOGUS-XGIEE-QVHDZ-AMFV2"
                 }
             }
-        }
+        },
+        "domain" : "jxlinger.github.io"
     }
 }
